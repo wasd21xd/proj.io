@@ -1,0 +1,47 @@
+.works{
+    font-family: sans-serif;
+    color: var(--carbon-fiber);
+   
+}
+
+.works__container{
+    padding-top: 42px;
+    padding-bottom: 42px;
+    
+
+}
+
+.img__works{
+    width: 394.67px;
+    height: 330px;
+}
+
+.works__name{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.works__text{
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.block-grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 24px;
+}
+
+.works__proj{
+    display: flex;
+    flex-direction: column;
+    gap: 24px ;
+}
+
+.logo__works{
+text-align: center;    
+margin-bottom: 42px;
+font-weight: 600;
+font-size: 32px;
+
+}

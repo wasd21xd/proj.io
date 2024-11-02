@@ -1,0 +1,38 @@
+.logobar{
+    font-family: sans-serif;
+    color: var(--carbon-fiber);
+   
+}
+
+.logobar__container{
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.img__google{
+    width: 116.07px;
+    height: 38.21px;
+}
+
+.img__nike{
+    width: 86.42px;
+    height: 30.74px;
+}
+
+.img__samsung{
+    width: 113.11px;
+    height: 17.41px;
+}
+
+.img__apple{
+    width: 38.11px;
+    height: 46.83px;
+}
+
+.img__adidas{
+    width: 64.94pxpx;
+    height: 43.67px;
+}

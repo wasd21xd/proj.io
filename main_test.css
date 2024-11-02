@@ -1,0 +1,29 @@
+.testimonial{
+    font-family: sans-serif;
+    color: var(--carbon-fiber);
+}
+
+.test__container{
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+.logo__test{
+   font-weight: 600;
+   font-size: 32px;
+   text-align: center; 
+   margin-top: 42px;
+   margin-bottom: 42px;
+}
+
+.block__grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 24px;
+}
+
+.img__test{
+    gap: 24px;
+    min-width: 320px;
+    
+
+}

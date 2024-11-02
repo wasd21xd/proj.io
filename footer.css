@@ -1,0 +1,62 @@
+
+
+.worktg{
+    
+    padding: 42px 24px 86px 24px;
+    gap: 24px;
+}
+
+.worktg__title{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 42px;
+    font-family: "epilogue-semibold" sans-serif;
+    max-width: 1232px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+.worktg__container{
+    gap: 142px;
+    display: flex;
+}
+
+.worktg__text{
+    gap: 42px;
+    width: 550px;
+    margin-bottom: 42px;
+}
+
+.worktg__socials{
+    gap: 24px;
+    display: flex;
+    margin-right: 20px;
+}
+
+.worktg__reg{
+    width: 540px;
+    gap: 24px;
+}
+
+.worktg__input{
+    padding: 16px 24px 16px 24px;
+    gap: 10px;
+    background-color: var(--bleached-silk);
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin-bottom: 10px;
+    font-family: "epilogue-regular" sans-serif;
+}
+
+.worktg__button{
+    margin-top: 12px;
+    padding: 24px 64px 24px 64px;
+    gap: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: var(--carbon-fiber);
+    color: var(--white);
+    font-family: "epilogue-regular" sans-serif;
+}
